@@ -14,7 +14,8 @@ listening(8080, function(err, res) {
 });
 ```
 
-Listening API follows [server.listen API](http://nodejs.org/api/http.html#http_server_listen_port_hostname_backlog_callback).
+Listening API follows
+[server.listen API](http://nodejs.org/api/http.html#http_server_listen_port_hostname_backlog_callback).
 
 # why
 
