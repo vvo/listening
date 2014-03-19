@@ -1,6 +1,6 @@
 {
   "name": "listening",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check if a server is listening on the given params",
   "main": "index.js",
   "author": "Vincent Voyer <vincent@zeroload.net>",
