@@ -4,6 +4,9 @@
   "description": "Check if a server is listening on the given params",
   "main": "index.js",
   "author": "Vincent Voyer <vincent@zeroload.net>",
+  "scripts": {
+    "test": "mocha"
+  },
   "license": "ISC",
   "devDependencies": {
     "mocha": "^1.18.2"
