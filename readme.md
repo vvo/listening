@@ -1,5 +1,5 @@
 # listening
-[![Build Status](http://img.shields.io/travis/vvo/listening/master)](https://travis-ci.org/vvo/listening)
+[![Build Status](https://img.shields.io/travis/vvo/listening.svg)](https://travis-ci.org/vvo/listening)
 [![Dependency Status](https://david-dm.org/vvo/listening.svg?theme=shields.io)](https://david-dm.org/vvo/listening)
 [![devDependency Status](https://david-dm.org/vvo/listening/dev-status.svg?theme=shields.io)](https://david-dm.org/vvo/listening#info=devDependencies)
 
