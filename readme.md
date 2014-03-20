@@ -3,6 +3,8 @@
 [![Dependency Status](https://david-dm.org/vvo/listening.svg?theme=shields.io)](https://david-dm.org/vvo/listening)
 [![devDependency Status](https://david-dm.org/vvo/listening/dev-status.svg?theme=shields.io)](https://david-dm.org/vvo/listening#info=devDependencies)
 
+Know when a server is already listening on host, port, path.
+
 ```shell
 npm install listening --save
 ```
